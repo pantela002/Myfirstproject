@@ -2,13 +2,13 @@
 </br>
 Needed libraries:
 </br>
-  from token import AMPER
-  import cv2
-  import pyautogui
-  from time import time
-  from math import hypot
-  import mediapipe as mp
-  import matplotlib.pyplot as plt
+  from token import AMPER</br>
+  import cv2</br>
+  import pyautogui</br>
+  from time import time</br>
+  from math import hypot</br>
+  import mediapipe as mp</br>
+  import matplotlib.pyplot as plt</br>
 </br>
 Install with:
 </br>
